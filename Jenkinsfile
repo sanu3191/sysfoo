@@ -12,6 +12,7 @@ pipeline {
       steps {
         echo 'test maven app'
         sh 'mvn clean test'
+        sleep 3
       }
     }
 
