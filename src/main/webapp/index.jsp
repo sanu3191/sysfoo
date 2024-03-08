@@ -16,7 +16,7 @@
 	<body>
 
 		<!-- Wrapper -->
-			<div id="wrapper">
+			<div id="wrapper wrapper2">
 
 				<!-- Header -->
 					<header id="header">
