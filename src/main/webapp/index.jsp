@@ -19,7 +19,7 @@
 			<div id="wrapper wrapper2">
 
 				<!-- Header -->
-					<header id="header">
+					<header id="header header 2">
 						<div>
 						<nav>
 								<ul class="actions">
